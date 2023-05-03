@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Everything that doesn't match with me.
 
 <a href="https://github.com/Mostakimul/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mostakimul&theme=radical&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mostakimul&theme=synthwave&show_icons=true" />
 </a>
 <a href="https://github.com/Mostakimul/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mostakimul&langs_count=8&theme=radical&layout=compact" />
