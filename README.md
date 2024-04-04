@@ -1,8 +1,8 @@
 ### Ciao, I am Mostakimul 👋
 
 
-- 🔭 I’m currently studying on computer science & engineering.
-- 🌱 I’m currently diving into advance vue js, nuxt js and Laravel
+- 🔭 I’m currently studying on software engineering.
+- 🌱 Exploring backend technologies.
 - 💬 Ask me about anything you want to know.
 - ⚡ Fun fact: Everything that doesn't match with me.
 
