@@ -1,4 +1,4 @@
-<img src="./profile_banner.png" alt="Mostakimul"
+![alt text]([http://url/to/img.png](https://www.canva.com/design/DAGJ5QW9M9o/Zo-uNVOnbSYdgBAIjGmiog/view?utm_content=DAGJ5QW9M9o&utm_campaign=designshare&utm_medium=link&utm_source=editor))
 
 ### Ciao, I am Mostakimul 👋
 
