@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://www.canva.com/design/DAGJ5QW9M9o/Zo-uNVOnbSYdgBAIjGmiog/view?utm_content=DAGJ5QW9M9o&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![profile_banner](https://github.com/Mostakimul/Mostakimul/assets/58774850/ab0742c3-f7f8-4f82-b088-174d3042a47f)
+
 
 ### Ciao, I am Mostakimul 👋
 
