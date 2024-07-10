@@ -9,6 +9,8 @@
 - 💬 Ask me about anything you want to know.
 - ⚡ Fun fact: Everything that doesn't match with me.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Mostakimul&theme=radical)](https://git.io/streak-stats)
+
 <a href="https://github.com/Mostakimul/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mostakimul&theme=synthwave&show_icons=true" />
 </a>
