@@ -4,7 +4,7 @@
 ### Ciao, I am Mostakimul 👋
 
 
-- 🔭 I’m currently studying on software engineering.
+- 🔭 I have completed my masters in software engineering from UMBC.
 - 🌱 Exploring backend technologies.
 - 💬 Ask me about anything you want to know.
 - ⚡ Fun fact: Everything that doesn't match with me.
