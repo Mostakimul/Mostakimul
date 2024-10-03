@@ -1,6 +1,6 @@
 <a href="https://gitroll.io/profile/umJmxJgTx08cjtUwDNtlpKnnYNo12" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/umJmxJgTx08cjtUwDNtlpKnnYNo12" alt="GitRoll Profile Badge"/></a>
 
-![profile_banner](https://github.com/Mostakimul/Mostakimul/assets/58774850/ab0742c3-f7f8-4f82-b088-174d3042a47f)
+[//]: <> (![profile_banner](https://github.com/Mostakimul/Mostakimul/assets/58774850/ab0742c3-f7f8-4f82-b088-174d3042a47f)) 
 
 
 ### Ciao, I am Mostakimul 👋
